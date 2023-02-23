@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/L0L-kek-31415/core.git
+[submodule "express"]
+	path = express
+	url = https://github.com/L0L-kek-31415/express.git
+[submodule "next"]
+	path = next
+	url = https://github.com/L0L-kek-31415/next.git
